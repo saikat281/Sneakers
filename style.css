@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap');
+
+
+
+/* .Hero-section{
+    display: grid;
+    grid-template-columns: 900px 300px;
+    height: 300px;
+}
+*/
+.sl-1 {
+    height: 50%;
+}
+
+/*slider*/
+.slider {
+    scroll-snap-type: x mandatory;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+}
+
+.slider::-webkit-scrollbar {
+    display: none;
+}
+
+.slide {
+    scroll-snap-align: center;
+    flex: 0 0 100%;
+}
+
+.review-slide {
+    scroll-snap-align: center;
+    flex: 0 0 25%;
+}
+
+.sliderbox {
+    height: 200px;
+}
+
+.prod-details {
+    font-family: "Hammersmith One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-style: italic;
+}
+
+#custom-font {
+    font-family: "Phudu", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 40px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+
+}
+
+.cart-list {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 60px;
+    font-style: normal;
+    font-size: 20px;
+
+}
+
+#order-msg {
+    font-family: "Cal Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
