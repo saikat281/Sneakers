@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "VoltRunner X9",
+    "image": "1.png",
+    "Description": "A futuristic running shoe with an adaptive knit upper and reactive sole that adjusts to your stride. Designed for speed and comfort.",
+    "price": 160,
+    "Rating": 4.3
+  },
+  {
+    "id": 2,
+    "title": "Urban Glide Nova",
+    "image": "2.png",
+    "Description": "Streetwear-inspired sneaker with a sleek leather finish, cushioned heel, and minimal branding for a clean look.",
+    "price": 120,
+    "Rating": 4.6
+  },
+  {
+    "id": 3,
+    "title": "ShadowCore Prime",
+    "image": "3.png",
+    "Description": "All-black lifestyle sneaker made from recycled materials with a bold design and thick midsole for maximum comfort.",
+    "price": 110,
+    "Rating": 4.8
+  },
+  {
+    "id": 4,
+    "title": "AeroBurst 7.0",
+    "image": "4.png",
+    "Description": " Lightweight performance shoe built for agility with breathable mesh and a spring-loaded midsole for explosive movement.",
+    "price": 145,
+    "Rating": 4.5
+  },
+  {
+    "id": 5,
+    "title": "SkyTempo Fusion",
+    "image": "5.png",
+    "Description": "High-performance basketball sneaker featuring ankle support, hybrid traction outsole, and shock-absorbing tech.",
+    "price": 180,
+    "Rating": 4.4
+  },
+  {
+    "id": 6,
+    "title": "EchoTrail VX",
+    "image": "6.png",
+    "Description": "Trail sneaker with a rugged outsole, waterproof upper, and built-in arch support for off-road adventures.",
+    "price": 130,
+    "Rating": 4.3
+  }
+]
